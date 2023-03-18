@@ -73,10 +73,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 npm install --location=global axios
 npm install --location=global bootstrap
-npm install -g react-bootstrap
-npm install -g @fortawesome/react-fontawesome
-npm install -g @fortawesome/free-solid-svg-icons
-npm install -g react-player
-npm install -g react-router-dom
-npm install -g @mui/material @emotion/react @emotion/styled
-npm install -g react-material-ui-carousel
+npm install --location=global react-bootstrap
+npm install --location=global @fortawesome/react-fontawesome
+npm install --location=global @fortawesome/free-solid-svg-icons
+npm install --location=global react-player
+npm install --location=global react-router-dom --save
+npm install --location=global @mui/material @emotion/react @emotion/styled
+npm install --location=global react-material-ui-carousel
+npm i --save @fortawesome/react-fontawesome@latest
+
